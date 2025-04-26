@@ -1,0 +1,69 @@
+/* .container{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.article{
+border: 2px red solid;
+background-color: green;
+width: 150px;
+box-shadow: none;
+} */
+
+/* .titel{
+
+}
+
+.price{
+
+}
+
+.description{
+
+}
+
+.isAvailable{
+
+}
+
+.quantity{
+
+} */
+
+/* .block{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(255, 0, 0);
+} */
+
+.slider1 {
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    display: block;
+}
+
+.slider2 {
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    display: none;
+}
+
+.slider3 {
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    display: none;
+}
+
+.sliders{
+    display: flex;
+    position: relative;
+}
